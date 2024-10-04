@@ -1,0 +1,42 @@
+{
+  "name" : "ddd",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "dd3adcf020e69077e83e92a0a293ceca734f6288",
+  "dependencies" : [ {
+    "name" : "asio",
+    "version>=" : "1.31.0"
+  }, {
+    "name" : "crow",
+    "version>=" : "1.2.0"
+  }, {
+    "name" : "libpq",
+    "version>=" : "16.4"
+  }, {
+    "name" : "libpqxx",
+    "version>=" : "7.9.2"
+  }, {
+    "name" : "lz4",
+    "version>=" : "1.10.0"
+  }, {
+    "name" : "nlohmann-json",
+    "version>=" : "3.11.3#1"
+  }, {
+    "name" : "openssl",
+    "version>=" : "3.3.2#1"
+  }, {
+    "name" : "vcpkg-cmake-config",
+    "version>=" : "2024-05-23"
+  }, {
+    "name" : "vcpkg-cmake-get-vars",
+    "version>=" : "2023-12-31"
+  }, {
+    "name" : "vcpkg-cmake",
+    "version>=" : "2024-04-23"
+  }, {
+    "name" : "zlib",
+    "version>=" : "1.3.1"
+  }, {
+    "name" : "vcpkg-tool-ninja",
+    "version>=" : "2022-03-31#2"
+  } ]
+}

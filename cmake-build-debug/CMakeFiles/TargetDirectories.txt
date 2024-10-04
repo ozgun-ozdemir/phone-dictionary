@@ -1,0 +1,3 @@
+/Users/ozgun/CLionProjects/DDD/cmake-build-debug/CMakeFiles/DDD.dir
+/Users/ozgun/CLionProjects/DDD/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ozgun/CLionProjects/DDD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
