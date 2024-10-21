@@ -18,9 +18,7 @@ This is a simple contact management API built using C++ with the Crow framework 
 - Create the database and table:
   CREATE DATABASE your_database_name;
 
-\c your_database_name
-
-CREATE TABLE contacts (
+- CREATE TABLE contacts (
     id SERIAL PRIMARY KEY,
     name VARCHAR(100),
     surname VARCHAR(100),
