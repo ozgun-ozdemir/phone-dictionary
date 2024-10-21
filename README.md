@@ -14,10 +14,10 @@ This is a simple contact management API built with C++ using the Crow framework 
 - libpqxx
 
 ## Database Setup
-- Create the database and table:
+Create the database and table:
   CREATE DATABASE your_database_name;
 
-- CREATE TABLE contacts (
+CREATE TABLE contacts (
     id SERIAL PRIMARY KEY,
     name VARCHAR(100),
     surname VARCHAR(100),
