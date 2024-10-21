@@ -1,4 +1,5 @@
 # Contact Management API
+This is a simple contact management API built with C++ using the Crow framework and libpqxx for PostgreSQL, enabling creation, reading, updating, and deletion of contacts.
 
 ## Features
 - **Add a Contact**: Insert a new contact into the database.
